@@ -4,10 +4,6 @@
 + Font         : Meslo LG L DZ Regular Nerd Font Complete (Size: 14pt)
 + Color scheme : Material Design
 
-Screenshot:
-
-![](https://github.com/haccks/zsh-config/blob/master/images/final.png?raw=true)
-
 Working terminal:
 
 ![](https://github.com/haccks/zsh-config/blob/master/images/terminal.gif?raw=true)
