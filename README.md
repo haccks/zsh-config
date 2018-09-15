@@ -1,4 +1,11 @@
 # zsh config
+Screenshot:
+
+![](https://github.com/haccks/zsh-config/blob/master/images/final.png?raw=true)
+
+Working terminal:
+
+![](https://github.com/haccks/zsh-config/blob/master/images/final.gif?raw=true)
 
 ## Prerequisite:
 Homebrew/macport should be installed. If not then [install](https://www.howtogeek.com/211541/homebrew-for-os-x-easily-installs-desktop-apps-and-terminal-utilities/) the lates version of homwbrew.
@@ -16,7 +23,8 @@ Type `echo $0` and you will see `zsh`. You can also use macports to install the 
 
 ### 3. [Install oh-my-zsh](https://ohmyz.sh/) plugin
 
-<sub>Image taken from oh-my-zsh official website</sub>sub>
+![](https://camo.githubusercontent.com/5c385f15f3eaedb72cfcfbbaf75355b700ac0757/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6f686d797a73682f6f682d6d792d7a73682d6c6f676f2e706e67)  
+<sub>Image credit: [oh-my-zsh](https://ohmyz.sh/)</sub>
 
 Run the following command in the terminal to install it:  
 `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
@@ -30,6 +38,8 @@ Run the following command in the terminal:
 
 Download [`Meslo LG L DZ Regular Nerd Font Complete.otf`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/L-DZ/complete/Meslo%20LG%20L%20DZ%20Regular%20Nerd%20Font%20Complete.otf) and install it. Then go to *Open ITerm2 > Preferences > Profiles > Text* and open *Change Font* 
 and select *Meslo LG L DZ Regular Nerd Font Complete* font.
+
+![](https://github.com/haccks/zsh-config/blob/master/images/font.png)
 
 ### 6. Install a color scheme for iTerm2 
 
