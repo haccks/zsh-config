@@ -10,7 +10,7 @@ Screenshot:
 
 Working terminal:
 
-![](https://github.com/haccks/zsh-config/blob/master/images/final.gif?raw=true)
+![](https://github.com/haccks/zsh-config/blob/master/images/terminal.gif?raw=true)
 
 ## Prerequisite:
 Homebrew/macport should be installed. If not then [install](https://www.howtogeek.com/211541/homebrew-for-os-x-easily-installs-desktop-apps-and-terminal-utilities/) the lates version of homwbrew.
