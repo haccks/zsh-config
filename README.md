@@ -1,4 +1,9 @@
 # zsh config
++ OS           : macOS High Sierra
++ Terminal     : iTerm2 (Build 3.2.1beta4)
++ Font         : Meslo LG L DZ Regular Nerd Font Complete (Size: 14pt)
++ Color scheme : Material Design
+
 Screenshot:
 
 ![](https://github.com/haccks/zsh-config/blob/master/images/final.png?raw=true)
@@ -50,7 +55,7 @@ I choosed [material design theme](https://github.com/MartinSeeler/iterm2-materia
 + `zsh` Syntax Highlighting Plugin:   
     `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting`
 
-+  `zsh` AutoSuggestion Plugin:  
++ `zsh` AutoSuggestion Plugin:  
 	`git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions`
 
 ### 8. Replace `.zshrc` file 
