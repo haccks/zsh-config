@@ -6,7 +6,7 @@
 
 Working terminal:
 
-![](https://github.com/haccks/zsh-config/blob/master/images/terminal.gif?raw=true)
+![](https://github.com/haccks/zsh-config/blob/master/media/terminal.gif?raw=true)
 
 ## Prerequisite:
 Homebrew/macport should be installed. If not then [install](https://www.howtogeek.com/211541/homebrew-for-os-x-easily-installs-desktop-apps-and-terminal-utilities/) the lates version of homwbrew.
@@ -40,7 +40,7 @@ Run the following command in the terminal:
 Download [`Meslo LG L DZ Regular Nerd Font Complete.otf`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/L-DZ/complete/Meslo%20LG%20L%20DZ%20Regular%20Nerd%20Font%20Complete.otf) and install it. Then go to *Open ITerm2 > Preferences > Profiles > Text* and open *Change Font* 
 and select *Meslo LG L DZ Regular Nerd Font Complete* font.
 
-![](https://github.com/haccks/zsh-config/blob/master/images/font.png)
+![](https://github.com/haccks/zsh-config/blob/master/media/font.png)
 
 ### 6. Install a color scheme for iTerm2 
 
