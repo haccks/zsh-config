@@ -30,11 +30,16 @@ Type `echo $0` and you will see `zsh`. You can also use macports to install the 
 Run the following command in the terminal to install it:  
 `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
-### 4. [Install powerlevel9k](https://github.com/bhilburn/powerlevel9k) theme for oh-my-zsh
+<strike>### 4. [Install powerlevel9k](https://github.com/bhilburn/powerlevel9k) theme for oh-my-zsh
 
 Run the following command in the terminal:  
 `git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k`
+</strike>
 
+### 4. Pwerlevel9k is outdated and slow. Use [powerlevel10k](https://github.com/romkatv/powerlevel10k) isntead. [Super fast](https://github.com/romkatv/powerlevel10k#is-it-really-fast)!
+```
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+```
 ### 5. [Install a Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 
 Download [`Meslo LG L DZ Regular Nerd Font Complete.otf`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/L-DZ/complete/Meslo%20LG%20L%20DZ%20Regular%20Nerd%20Font%20Complete.otf) and install it. Then go to *Open ITerm2 > Preferences > Profiles > Text* and open *Change Font* 
