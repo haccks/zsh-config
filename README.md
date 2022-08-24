@@ -28,7 +28,9 @@ Type `echo $0` and you will see `zsh`. You can also use macports to install the 
 <sub>Image credit: [oh-my-zsh](https://ohmyz.sh/)</sub>
 
 Run the following command in the terminal to install it:  
-`sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+```
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
 
 <strike>### 4. [Install powerlevel9k](https://github.com/bhilburn/powerlevel9k) theme for oh-my-zsh
 
@@ -54,10 +56,14 @@ I choosed [material design theme](https://github.com/MartinSeeler/iterm2-materia
 ### 7. Install two more plugins for zsh
 
 + `zsh` Syntax Highlighting Plugin:   
-    `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting`
+```
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+```
 
 + `zsh` AutoSuggestion Plugin:  
-	`git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions`
+```
+git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+```
 
 ### 8. Replace `.zshrc` file 
 
