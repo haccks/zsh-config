@@ -9,10 +9,12 @@ export ZSH="$HOME/.oh-my-zsh"
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 #ZSH_THEME="robbyrussell"
 
-# This section is for Powerlevel9k theme. Comment the above 
-# line "ZSH_THEME=...." and uncomment all these lines below
 
-ZSH_THEME="powerlevel9k/powerlevel9k"
+
+ZSH_THEME="powerlevel10k/powerlevel10k"
+
+# This section is for Powerlevel9k theme.
+
 POWERLEVEL9K_MODE="nerdfont-complete"
 ##POWERLEVEL9K_DISABLE_RPROMPT=true
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
