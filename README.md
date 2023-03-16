@@ -44,7 +44,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 ```
 ### 5. [Install a Nerd Font](https://github.com/ryanoasis/nerd-fonts)
 
-Download [`Meslo LG L DZ Regular Nerd Font Complete.otf`](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/L-DZ/complete/Meslo%20LG%20L%20DZ%20Regular%20Nerd%20Font%20Complete.otf) and install it. Then go to *Open ITerm2 > Preferences > Profiles > Text* and open *Change Font* 
+Download [`Meslo LG L DZ Regular Nerd Font Complete.otf`](https://github.com/ryanoasis/nerd-fonts/blob/ad7cf8faddf38ea56db88be251c834419a424981/patched-fonts/Meslo/L-DZ/Regular/complete/Meslo%20LG%20L%20DZ%20Regular%20Nerd%20Font%20Complete.ttf) and install it. Then go to *Open ITerm2 > Preferences > Profiles > Text* and open *Change Font* 
 and select *Meslo LG L DZ Regular Nerd Font Complete* font.
 
 ![](https://github.com/haccks/zsh-config/blob/master/media/font.png)
