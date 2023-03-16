@@ -19,6 +19,8 @@ iTerm2 is way better than OS X terminal. I would also recommend to install [shel
 
 ### 2. [Install zsh](https://rick.cogley.info/post/use-homebrew-zsh-instead-of-the-osx-default/)
 
+NOTE: Newer Macs comes with preinstalled `zsh`. Type `zsh --version` in your terminal to check if it is already install. If it is not then install it.  
+
 After installation of zsh, set it as login shell in iTerm2. You may need to run this command: `chsh -s $(which zsh)`. Logout from iTerm2 and then again launch it.
 Type `echo $0` and you will see `zsh`. You can also use macports to install the `zsh`.
 
