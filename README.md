@@ -1,4 +1,4 @@
-## This repo is outdated. Please checkout this blog for the updated instructions: [Mac Terminal Customization with Oh-My-ZSH and powerlevel10k](https://www.haccks.com/posts/mac-terminal-customization/)
+## Below instructions are outdated. Please checkout this blog for the updated instructions: [Mac Terminal Customization with Oh-My-ZSH and powerlevel10k](https://www.haccks.com/posts/mac-terminal-customization/)
 
 
 # zsh config
