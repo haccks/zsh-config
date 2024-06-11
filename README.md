@@ -1,3 +1,6 @@
+## This repo is outdated. Please checkout this blog for the updated instructions: [Mac Terminal Customization with Oh-My-ZSH and powerlevel10k](https://www.haccks.com/posts/mac-terminal-customization/)
+
+
 # zsh config
 + OS           : macOS High Sierra
 + Terminal     : iTerm2 (Build 3.2.1beta4)
